@@ -1475,7 +1475,7 @@ our facts
 ---------------------------------------------
 */
 
-section.our-facts {
+/*section.our-facts {
   background-image: url(../images/facts-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
@@ -1922,6 +1922,23 @@ section.meetings-page .pagination ul li a:hover {
 responsive
 --------------------------------------------- 
 */
+@media (max-width: 1500px) {
+  .services .owl-nav .owl-next{
+    right: -80px;
+  }
+  .services .owl-nav .owl-prev{
+    left: -75px;
+  }
+  .our-courses .owl-nav .owl-next{
+    right: -80px;
+  }
+  .our-courses .owl-nav .owl-prev{
+    left: -75px;
+  }
+  .section-heading{
+    margin-top: 20px;
+  }
+}
 
 @media (max-width: 1300px) {
   .services .owl-nav .owl-next{
@@ -1935,6 +1952,9 @@ responsive
   }
   .our-courses .owl-nav .owl-prev{
     left: -25px;
+  }
+  .section-heading{
+    margin-top: 90px;
   }
 }
 
@@ -1951,6 +1971,9 @@ responsive
   .our-courses .owl-nav .owl-prev{
     left: -65px;
   }
+  .section-heading{
+    margin-top: 100px;
+  }
 }
 
 @media (max-width: 1085px) {
@@ -1966,6 +1989,9 @@ responsive
   .our-courses .owl-nav .owl-prev{
     left: -25px;
   }
+  .section-heading{
+    margin-top: 80px;
+  }
 }
 
 @media (max-width: 1005px) {
@@ -1974,6 +2000,9 @@ responsive
   }
   .services .owl-nav .owl-prev{
     display: none;
+  }
+  .section-heading{
+    margin-top: 180px;
   }
   .our-courses .owl-nav .owl-next{
     display: none;
@@ -2000,7 +2029,10 @@ responsive
   }
 
   .services {
-    margin-top: 60px;
+    margin-top: 20px;
+  }
+  .section-heading{
+    margin-top: 180px;
   }
 
   section.upcoming-meetings {
