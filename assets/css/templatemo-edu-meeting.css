@@ -799,7 +799,7 @@ services
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -916,7 +916,7 @@ services 2
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -959,7 +959,7 @@ services 3
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -1002,7 +1002,7 @@ services 4
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -1046,7 +1046,7 @@ services 5
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -1090,7 +1090,7 @@ services 6
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -1328,7 +1328,7 @@ courses
 */
 
 section.our-courses {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(../images/fondo.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
