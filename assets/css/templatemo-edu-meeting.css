@@ -92,6 +92,7 @@ html, body {
 a {
   text-decoration: none !important;
   color: #3CF;
+  font-size: 18px;
 }
 
 a:hover {
@@ -156,7 +157,7 @@ body {
 }
 
 .main-button-red a {
-  font-size: 13px;
+  font-size: 15px;
   color: #fff;
   background-color: #a12c2f;
   padding: 12px 30px;
@@ -799,8 +800,8 @@ services
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 800;
 }
 
 .services .item p {
@@ -808,7 +809,10 @@ services
   border-radius: 10px;
   color: black;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 800;
+  line-height: 105%;
+  padding: 5px;
+  
 }
 
 .services .owl-nav {
@@ -916,8 +920,8 @@ services 2
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 800;
 }
 
 .services .ite p {
@@ -925,7 +929,9 @@ services 2
   border-radius: 10px;
   color: black;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 800;
+  line-height: 105%;
+  padding: 5px;
 }
 /*
 ---------------------------------------------
@@ -959,8 +965,8 @@ services 3
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 800;
 }
 
 .services .itemn p {
@@ -968,7 +974,9 @@ services 3
   border-radius: 10px;
   color: black;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 800;
+  line-height: 105%;
+  padding: 5px;
 }
 /*
 ---------------------------------------------
@@ -996,15 +1004,15 @@ services 4
   max-width: 60px;
   margin: 0 auto;
 }
-
 .services .itemn4 h4 {
-  background-color: wheat;
+  background: wheat;
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 14.3px;
+  font-weight: 800;
 }
+
 
 .services .itemn4 p {
   background-color: rgb(7, 43, 73);
@@ -1012,7 +1020,9 @@ services 4
   padding: 5px;
   color: white;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 800;
+  line-height: 105%;
+  padding: 5px;
 }
 /*
 ---------------------------------------------
@@ -1046,8 +1056,8 @@ services 5
   border-radius: 10px;
   margin-top: 25px;
   margin-bottom: 15px;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 800;
 }
 
 .services .itemn5 p {
@@ -1056,52 +1066,12 @@ services 5
   padding: 5px;
   color: black;
   font-size: 12px;
-  font-weight: 600;
-}
-/*
----------------------------------------------
-services 6
----------------------------------------------
-*/
-.services {
-  margin-top: -135px;
-  position: absolute;
-  width: 100%;
-}
-
-.services .itemn6 {
-  background-image: url(../images/sexto.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  border-radius: 20px;
-  text-align: center;
-  color: red;
-  padding: 40px;
-}
-
-.services .itemn6 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
-
-.services .itemn6 h4 {
-  background-color: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
-  font-size: 18px;
-  font-weight: 600;
-}
-
-.services .itemn6 p {
-  background-color: rgb(134, 135, 136);
-  border-radius: 10px;
+  font-weight: 800;
+  line-height: 105%;
   padding: 5px;
-  color: white;
-  font-size: 12px;
-  font-weight: 600;
 }
+
+
 /*
 ---------------------------------------------
 upcoming meetings
