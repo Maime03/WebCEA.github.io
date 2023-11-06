@@ -1312,11 +1312,13 @@ section.our-courses {
 }
 
 .our-courses .item .down-content h4 {
-  padding: 25px;
-  font-size: 18px;
+  padding: 6px;
+  font-size: 15px;
+  font-weight: 800;
   color: #1f272b;
   text-align: center; 
   border-bottom: 1px solid #eee;
+
 }
 
 .our-courses .item .down-content .info {
