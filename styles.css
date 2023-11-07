@@ -14,6 +14,7 @@ html {
   box-sizing: border-box;
 }
 
+
 body {
   --heading-font: 'Roboto Condensed', sans-serif;
   --heading-font-weight: 700;
@@ -248,7 +249,7 @@ section#testimonial {
 }
 
 .testimonial-content {
-  background: #F9E9E9;
+  background: #f8f7f7;
 }
 
 iconify-icon.rate {
