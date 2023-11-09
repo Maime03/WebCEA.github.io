@@ -154,6 +154,9 @@ body {
   .mobile-bottom-fix-big {
     margin-bottom: 60px;
   }
+  .section.our-courses{
+    margin-top: 0px;
+  }
 }
 
 .main-button-red a {
@@ -780,33 +783,29 @@ services
 }
 
 .services .item1 {
-  background-image: url(../imgesAct/deporte.webp);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .item1 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .item1 h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
   font-weight: 800;
   color: red;
 }
 
 .services .item1 p {
-  background-color: rgb(245, 131, 24);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
   font-size: 12px;
@@ -901,39 +900,36 @@ services 2
 }
 
 .services .ite2 {
-  background-image: url(../imgesAct/bamda.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .ite2 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .ite2 h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
   font-weight: 800;
   color: red;
 }
 
 .services .ite2 p {
-  background-color: rgb(248, 217, 79);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
-  padding: 5px;
+  padding: 6px;
+  
 }
 /*
 ---------------------------------------------
@@ -947,39 +943,36 @@ services 3
 }
 
 .services .itemn3 {
-  background-image: url(../imgesAct/taler.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .itemn3 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .itemn3 h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
   font-weight: 800;
   color: red;
 }
 
 .services .itemn3 p {
-  background-color: rgb(182, 216, 243);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
 /*
 ---------------------------------------------
@@ -993,40 +986,36 @@ services 4
 }
 
 .services .item4 {
-  background-image: url(../imgesAct/activiDI.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .item4 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
+
 .services .item4 h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
-  font-size: 14.3px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
   font-weight: 800;
   color: red;
 }
 
-
 .services .item4 p {
-  background-color: rgb(7, 43, 73);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
-  padding: 5px;
-  color: white;
+  color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
 /*
 ---------------------------------------------
@@ -1040,40 +1029,36 @@ services 5
 }
 
 .services .item5 {
-  background-image: url(../imgesAct/actiSO.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .item5 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .item5 h4 {
-  background-color: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  background: wheat;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
   font-weight: 800;
   color: red;
 }
 
 .services .item5 p {
-  background-color: rgb(138, 195, 241);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
-  padding: 5px;
   color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
 
 /*
@@ -1088,40 +1073,36 @@ services 6
 }
 
 .services .item6 {
-  background-image: url(../imgesAct/expocisio.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .item6 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
+
 .services .item6 h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
-  font-size: 14.3px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
   font-weight: 800;
   color: red;
 }
 
-
 .services .item6 p {
-  background-color: rgb(7, 43, 73);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
-  padding: 5px;
-  color: white;
+  color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
-  padding: 5px;
+  padding: 1px;
+  
 }
 
 /*
@@ -1356,7 +1337,7 @@ section.our-courses {
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 140px;
-  padding-bottom: 130px;
+  padding-bottom: 15px;
 }
 
 .our-courses .item .down-content {
@@ -1938,6 +1919,9 @@ section.meetings-page .pagination ul li a:hover {
 	.templatemo-item-col {
 		width: 100%;
 	}
+  .section.our-courses{
+    margin-top: 0px;
+  }
 }
 
 /* 
@@ -1961,6 +1945,9 @@ responsive
   .section-heading{
     margin-top: 20px;
   }
+  .section.our-courses{
+    margin-top: 0px;
+  }
 }
 
 @media (max-width: 1300px) {
@@ -1979,6 +1966,10 @@ responsive
   .section-heading{
     margin-top: 90px;
   }
+  .section.our-courses{
+    margin-top: 0px;
+  }
+
 }
 
 @media (max-width: 1200px) {

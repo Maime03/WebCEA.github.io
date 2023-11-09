@@ -701,6 +701,7 @@ banner
 
 #bg-video::-webkit-media-controls {
     display: none !important;
+    background-image: url(../images/fondo.jpg);
 }
 
 .video-overlay {
@@ -1309,7 +1310,7 @@ section.our-courses {
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 140px;
-  padding-bottom: 130px;
+  padding-bottom: 15px;
 }
 
 .our-courses .item .down-content {
