@@ -160,7 +160,7 @@ body {
   font-size: 15px;
   color: #fff;
   background-color: #a12c2f;
-  padding: 12px 30px;
+  padding: 1px 20px;
   display: inline-block;
   border-radius: 22px;
   font-weight: 500;
@@ -169,7 +169,8 @@ body {
 }
 
 .main-button-red a:hover {
-  opacity: 0.9;
+  background: white;
+  color: #3CF;
 }
 
 .main-button-yellow a {
@@ -781,33 +782,29 @@ services
 }
 
 .services .item {
-  background-image: url(../images/primero.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .item .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .item h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
-  font-weight: 800;
-  color: red;
+  font-weight: 1000;
+  color: rgb(21, 4, 165);
 }
 
 .services .item p {
-  background-color: rgb(245, 131, 24);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
   font-size: 12px;
@@ -816,7 +813,6 @@ services
   padding: 5px;
   
 }
-
 .services .owl-nav {
   display: inline-block !important;
   text-align: center;
@@ -838,6 +834,7 @@ services
   opacity: 0;
 }
 
+
 .services .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
@@ -858,7 +855,7 @@ services
 }
 
 .services .owl-nav .owl-prev:hover {
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 .services .owl-nav .owl-next {
@@ -902,39 +899,36 @@ services 2
 }
 
 .services .ite {
-  background-image: url(../images/segundo.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .ite .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .ite h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
-  font-weight: 800;
-  color: red;
+  font-weight: 1000;
+  color: rgb(21, 4, 165);
 }
 
 .services .ite p {
-  background-color: rgb(248, 217, 79);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
 /*
 ---------------------------------------------
@@ -948,39 +942,36 @@ services 3
 }
 
 .services .itemn {
-  background-image: url(../images/tercero.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .itemn .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .itemn h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
-  font-weight: 800;
-  color: red;
+  font-weight: 1000;
+  color: rgb(21, 4, 165);
 }
 
 .services .itemn p {
-  background-color: rgb(182, 216, 243);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
 /*
 ---------------------------------------------
@@ -994,40 +985,36 @@ services 4
 }
 
 .services .itemn4 {
-  background-image: url(../images/cuarto1.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .itemn4 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
+
 .services .itemn4 h4 {
   background: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
-  font-size: 14.3px;
-  font-weight: 800;
-  color: red;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  font-weight: 1000;
+  color: rgb(21, 4, 165);
 }
 
-
 .services .itemn4 p {
-  background-color: rgb(7, 43, 73);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
-  padding: 5px;
-  color: white;
+  color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
 /*
 ---------------------------------------------
@@ -1041,43 +1028,37 @@ services 5
 }
 
 .services .itemn5 {
-  background-image: url(../images/quinto.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
   color: red;
-  padding: 40px;
+  padding: 4px;
 }
 
-.services .itemn5 .icon {
-  max-width: 60px;
-  margin: 0 auto;
-}
+
 
 .services .itemn5 h4 {
-  background-color: wheat;
-  border-radius: 10px;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  background: wheat;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 15px;
-  font-weight: 800;
-  color: red;
+  font-weight: 1000;
+  color: rgb(21, 4, 165);
 }
 
 .services .itemn5 p {
-  background-color: rgb(138, 195, 241);
+  background-color: rgb(199, 220, 241);
   border-radius: 10px;
-  padding: 5px;
   color: black;
   font-size: 12px;
   font-weight: 800;
   line-height: 105%;
   padding: 5px;
+  
 }
-
-
 /*
 ---------------------------------------------
 upcoming meetings
