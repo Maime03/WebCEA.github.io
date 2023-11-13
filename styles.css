@@ -59,6 +59,7 @@ body {
 }
 
 
+
 h1,
 .h1,
 h2,
@@ -207,9 +208,7 @@ nav.navbar {
   right: 0px;
 }
 
-form.hero-form {
-  background: rgba(255, 255, 255, 0.90);
-}
+
 
 .form-label {
   font-size: 0.875rem;
