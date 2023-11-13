@@ -749,8 +749,7 @@ banner
 
 .main-banner .caption p {
   color: #fff;
-  font-size: 14px;
-  max-width: 570px;
+
 }
 
 .main-banner .caption .main-button-red {
@@ -808,8 +807,7 @@ services
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -925,11 +923,9 @@ services 2
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 115% sans-serif;
   line-height: 105%;
   padding: 6px;
-  
 }
 /*
 ---------------------------------------------
@@ -968,8 +964,7 @@ services 3
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1011,8 +1006,7 @@ services 4
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1054,8 +1048,7 @@ services 5
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1098,8 +1091,7 @@ services 6
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 106% sans-serif;
   line-height: 105%;
   padding: 1px;
   
@@ -1336,7 +1328,7 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
+  padding-top: 185px;
   padding-bottom: 15px;
 }
 
@@ -1944,6 +1936,7 @@ responsive
   }
   .section-heading{
     margin-top: 20px;
+   
   }
   .section.our-courses{
     margin-top: 0px;
@@ -1964,7 +1957,7 @@ responsive
     left: -25px;
   }
   .section-heading{
-    margin-top: 90px;
+    margin-top: 100px;
   }
   .section.our-courses{
     margin-top: 0px;
