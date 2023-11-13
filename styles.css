@@ -21,9 +21,12 @@ body {
   --heading-color: #313131;
   --heading-line-height: 1.24;
 
-  --accent-color: #D06051;
-  --linear-gradient: linear-gradient(90deg, #C62813 0%, #D06051 100%);
-
+  --accent-color: #ee2409;
+  --linear-gradient: linear-gradient(90deg, #d15b4c 0%, #f7f4f3 100%);
+  background-color: #2520dd;
+  background-color: #9290e5;
+  background-color: #d54646;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%239ed51a' fill-opacity='0.14' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 
   /* bootstrap */
   --bs-body-font-family: 'Roboto', sans-serif;
@@ -36,9 +39,9 @@ body {
   --bs-primary: #8C907E;
   --bs-secondary: #6c757d;
   --bs-black: #313131;
-  --bs-light: #FFFFFF;
+  --bs-light: #dda4a4da;
   --bs-dark: #212529;
-  --bs-gray: #D9D9D9;
+  --bs-gray: rgb(217, 217, 217);
   --bs-gray-dark: #51565b;
 
   --bs-primary-rgb: 140, 144, 126;
