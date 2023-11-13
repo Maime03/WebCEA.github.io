@@ -744,11 +744,13 @@ banner
   font-style: normal;
   color: #f5a425;
   font-weight: 900;
+  font: 100% sans-serif;
 }
 
 .main-banner .caption p {
   color: #fff;
-  font-size: 14px;
+  font: 120% sans-serif;
+  
   max-width: 570px;
 }
 
@@ -825,16 +827,18 @@ banner
 }
 .footer__option__item p {
   font-weight: 300;
+  font: 105% sans-serif;
   margin-bottom: 20px;
   color: black;
   line-height: 105%;
 }
 .footer__option__item .read__more {
-  font-size: 16px;
+  font: 100% sans-serif;
   color: blue;
 }
 .footer__option__item .read__more:hover{
   color: #3CF;
+  background: yellow;
 }
 .footer__option__item .read__more span {
   font-size: 16px;
@@ -849,11 +853,13 @@ banner
 }
 .footer__option__item ul li a {
   color: black;
-  font-size: 16px;
+  font: 100% sans-serif;
   font-weight: 300;
   line-height: 32%;
 }
 .footer__option__item ul li a:hover{
+  background: white;
+  padding: 2%;
   color: red;
 }
 .footer__option__item form {
@@ -918,7 +924,8 @@ services
   background: wheat;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 15px;
+  font-weight: 800;
+  font: 100% sans-serif;
   font-weight: 1000;
   color: rgb(21, 4, 165);
 }
@@ -927,8 +934,7 @@ services
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1035,7 +1041,8 @@ services 2
   background: wheat;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 15px;
+  font-weight: 800;
+  font: 100% sans-serif;
   font-weight: 1000;
   color: rgb(21, 4, 165);
 }
@@ -1044,8 +1051,7 @@ services 2
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1078,7 +1084,8 @@ services 3
   background: wheat;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 15px;
+  font-weight: 800;
+  font: 100% sans-serif;
   font-weight: 1000;
   color: rgb(21, 4, 165);
 }
@@ -1087,8 +1094,7 @@ services 3
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1121,7 +1127,8 @@ services 4
   background: wheat;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 15px;
+  font-weight: 800;
+  font: 90% sans-serif;
   font-weight: 1000;
   color: rgb(21, 4, 165);
 }
@@ -1130,8 +1137,7 @@ services 4
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1164,7 +1170,8 @@ services 5
   background: wheat;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 15px;
+  font-weight: 800;
+  font: 97% sans-serif;
   font-weight: 1000;
   color: rgb(21, 4, 165);
 }
@@ -1173,8 +1180,7 @@ services 5
   background-color: rgb(199, 220, 241);
   border-radius: 10px;
   color: black;
-  font-size: 12px;
-  font-weight: 800;
+  font: 100% sans-serif;
   line-height: 105%;
   padding: 5px;
   
@@ -1410,7 +1416,7 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
+  padding-top: 185px;
   padding-bottom: 15px;
 }
 
